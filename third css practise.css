@@ -19,3 +19,61 @@ span{
 #p14{
     visibility: hidden;
 }
+#p15,#p16,#p17,#p18,#p19,#p20{
+    border: 4px solid;
+    padding: 20px;
+    border-image: url(./Free-Book.jpg) 20 round;
+
+}
+#p21{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    box-shadow: 5px 5px #999;
+}
+#p22{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    box-shadow: -5px 5px #999;
+    border-bottom-left-radius: 10px 30px;
+}
+#p23{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    box-shadow: -5px -5px #999;
+    border-top-right-radius: 5px;
+}
+#p24{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    box-shadow: -5px 5px #999;
+    border-radius: 5px;
+}
+#p25{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    margin: 20px;
+}
+#p25:hover{
+    transform: translate(10px, 20px);
+    
+}
+#p26{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    margin: 20px;
+    transform: rotate(45deg);
+}
+#p27{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    margin: 20px;
+    transform: skew(45deg);
+
+}
