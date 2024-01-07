@@ -1,0 +1,57 @@
+p{
+    background-color: aquamarine;
+}
+#p1, #p2{
+    background-color: bisque;
+    color:brown;
+}
+.important{
+    background-color: blueviolet;
+}
+@font-face {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    src: url();
+}
+.italic{
+    font-style:italic ;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+p{
+    text-align: justify;
+}
+table{
+    height: 100px;
+}
+.top{
+    vertical-align: text-top;
+}
+body{
+    background-color: cadetblue;
+    color: brown;
+}
+#p5,#p6,#p7,#p8{
+    width: 200px;
+    height: 200px;
+    background-color:crimson
+}
+#p5{
+    opacity: 1;
+}
+#p6{
+    opacity: 0.7;
+}
+#p7{
+    opacity: 0.4;
+}
+#p8{
+    opacity: 0.2;
+}
+body{
+    background-image: url("../HTML/Free-Book.jpg");
+    background-repeat:no-repeat
+}
+body{
+    background-attachment: fixed;
+    background-size: auto;
+}

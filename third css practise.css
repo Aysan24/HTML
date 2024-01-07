@@ -1,0 +1,21 @@
+span{
+    background-color: crimson;
+}
+#p9{
+    display: inline;
+}
+#p10{
+    display: none;
+}
+#p11{
+    display: block;
+}
+#p12{
+    display: hidden;
+}
+#p13{
+    display: inline-block;
+}
+#p14{
+    visibility: hidden;
+}
